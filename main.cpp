@@ -14,7 +14,7 @@ static const bool DEBUG_OUTPUT = true;
 int main(int argc, char* argv[]) {
 
     // Some variables for messurments and the command line output at the end of the test.
-    int const byte_mebiByte_conversion_rate = 1;
+    int const byte_mebiByte_conversion_rate = 1049000;
 
     std::string const name = "Tomke_Klein";
     std::string trie_variant;
